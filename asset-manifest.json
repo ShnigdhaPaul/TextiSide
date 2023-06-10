@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextiSide/static/css/main.fd001e61.css",
+    "main.js": "/TextiSide/static/js/main.5529bcdf.js",
+    "static/js/787.1c550336.chunk.js": "/TextiSide/static/js/787.1c550336.chunk.js",
+    "index.html": "/TextiSide/index.html",
+    "main.fd001e61.css.map": "/TextiSide/static/css/main.fd001e61.css.map",
+    "main.5529bcdf.js.map": "/TextiSide/static/js/main.5529bcdf.js.map",
+    "787.1c550336.chunk.js.map": "/TextiSide/static/js/787.1c550336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd001e61.css",
+    "static/js/main.5529bcdf.js"
+  ]
+}
